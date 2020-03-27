@@ -278,18 +278,7 @@
                     "validations": [],
                     "disabled": false,
                     "omitted": false,
-                    "items": {
-                        "type": "Symbol",
-                        "validations": [
-                            {
-                                "in": [
-                                    "general",
-                                    "javascript",
-                                    "static-sites"
-                                ]
-                            }
-                        ]
-                    }
+                
                 }
             ]
         }
