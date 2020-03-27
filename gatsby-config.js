@@ -18,9 +18,9 @@ if (!spaceId || !accessToken) {
 
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Contentful starter',
+    title: 'Charlene Davidoff :: Product Manager',
   },
-  pathPrefix: '/gatsby-contentful-starter',
+  pathPrefix: '/',
   plugins: [
     'gatsby-transformer-remark',
     'gatsby-transformer-sharp',
